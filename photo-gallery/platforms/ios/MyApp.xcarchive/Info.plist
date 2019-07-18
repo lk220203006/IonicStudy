@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/MyApp.app</string>
+		<key>CFBundleIdentifier</key>
+		<string>com.liukun.photogallery</string>
+		<key>CFBundleShortVersionString</key>
+		<string>0.0.1</string>
+		<key>CFBundleVersion</key>
+		<string>0.0.1</string>
+		<key>SigningIdentity</key>
+		<string>iPhone Developer: liu kun (H9UZQ9YYDP)</string>
+		<key>Team</key>
+		<string>Q7WQF4WN2Z</string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2019-07-18T01:14:30Z</date>
+	<key>Name</key>
+	<string>MyApp</string>
+	<key>SchemeName</key>
+	<string>MyApp</string>
+</dict>
+</plist>
